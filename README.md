@@ -38,6 +38,3 @@ If you have any problems with this license, please contact us at [support@mixede
 
 Last updated July 29, 2024
 
-
-
-Translated with DeepL.com (free version)
